@@ -12,6 +12,8 @@ These can be installed using pip:
 
 Remember to install CMake to get dlib to work.
 
+To get the facial landmark detector to work, you must install 'shape_predictor_68_face_landmarks.dat' from 'https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat', and put it inside a folder called "facial_landmarks" in the project.
+
 # Usage
 To use the Eye Stabilizer, simply run the eyestabilizer.py script and specify the path to your input video file and the output folder where the stabilized frames will be saved:
 
