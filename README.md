@@ -4,6 +4,7 @@ This is a Python script designed to reduce the shakiness of video footage by ide
 
 ![](example.gif)
 
+
 # Installation
 To run the Eye Stabilizer, you will need to install the following packages:
 * OpenCV
