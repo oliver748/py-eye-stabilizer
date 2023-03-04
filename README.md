@@ -1,6 +1,9 @@
 # py-eye-stabilizer
 This is a Python script designed to reduce the shakiness of video footage by identifying and aligning the eyes in each frame with the center of the frame. While this technique can help stabilize video, it may not produce the same level of stabilization as a commercial video editing software. Nonetheless, this project can be a fun and interesting exercise in image processing and video stabilization techniques.
 
+
+![](example.gif)
+
 # Installation
 To run the Eye Stabilizer, you will need to install the following packages:
 * OpenCV
