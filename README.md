@@ -27,7 +27,7 @@ To use the Eye Stabilizer, simply run the eyestabilizer.py script and specify th
 
 There is also an option to skip the stabilization and go straight to the images -> video by doing:
 
-`python eye-stabilizer.py -o path/to/video.mp4 -ss` (If you specify -i while doing -ss, it will use the audio from the -i video)
+`python eye-stabilizer.py -o path/to/video.mp4 -ss` (Doing -i while doing -ss, it will use the audio from the -i video)
 
 # Contributing
 If you find any bugs or issues with the Eye Stabilizer, please open a GitHub issue or submit a pull request with your proposed changes.
